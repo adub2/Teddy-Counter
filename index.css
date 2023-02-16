@@ -1,6 +1,6 @@
 body {
     background-image: url("teddy.jpg");
-    background-size: fill;
+    background-size: cover;
     background-position: center;
     background-repeat: none;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -10,6 +10,7 @@ body {
 }
 .main-container {
     max-width: 50%;
+    max-height: 50%;
     margin: auto;
     border: 3px solid darkred;
     border-radius: 15px;
