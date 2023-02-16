@@ -1,6 +1,6 @@
 body {
     background-image: url("teddy.jpg");
-    background-size: cover;
+    background-size: fill;
     background-position: center;
     background-repeat: none;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
